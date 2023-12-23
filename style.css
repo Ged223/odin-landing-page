@@ -1,3 +1,10 @@
-.section1 {
+.section1, footer {
     background-color: #1F2937;
+}
+.header span, .hero-text {
+    color: #F9FAF8;
+}
+
+.subtext, ul {
+    color: #E5E7EB;
 }
