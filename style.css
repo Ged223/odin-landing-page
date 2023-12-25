@@ -22,3 +22,12 @@
 .subtext {
     font-size: 18px;
 }
+
+.first-button {
+    color: #F9FAF8;
+    background-color: #3882F6;
+    padding: 6px 24px;
+    font-weight: bold;
+    border-radius: 4px;
+    border: none;
+}
