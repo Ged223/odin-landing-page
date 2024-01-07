@@ -3,11 +3,15 @@ body {
     margin: 0px;
 }
 
-.section1, footer {
+.header, .section1, footer {
     background-color: #1F2937;
 }
 .header span, .hero-text {
     color: #F9FAF8;
+}
+
+.hero-text {
+    margin: 0;
 }
 
 .subtext, ul {
