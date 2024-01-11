@@ -30,6 +30,7 @@ body {
 
 .subtext {
     font-size: 18px;
+    margin: 0 0 10px 0;
 }
 
 .first-button {
@@ -65,4 +66,30 @@ ul {
     gap: 20px;
     align-items: center;
     font-size: 18px;
+}
+
+.section1 {
+    padding: 64px 10% 96px 10%;
+    display: flex;
+    justify-content: space-between;
+    gap: 32px;
+}
+
+.section1 > div {
+    flex: 1;
+}
+
+.placeholder-image {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.left-side {
+    height: fit-content;
+}
+
+.right-side {
+    height: 214px;
+    display: flex;
+    justify-content: flex-end;
 }
