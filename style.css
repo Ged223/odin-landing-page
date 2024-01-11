@@ -53,3 +53,16 @@ ul {
 .section3 {
     background-color: #E5E7EB;
 }
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 10%;
+}
+
+.header-links {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    font-size: 18px;
+}
