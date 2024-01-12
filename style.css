@@ -115,7 +115,7 @@ ul {
     border-radius: 10px;
 }
 
-.image-with-subtext > p {
+.image-with-subtext>p {
     color: #5b6471;
     text-align: center;
     margin: 5px 0 0 0;
@@ -133,4 +133,25 @@ ul {
 
 .section2 {
     padding: 24px 12% 48px 12%;
+}
+
+.section3 {
+    display: flex;
+    flex-direction: column;
+    padding: 48px 14% 64px 14%
+}
+
+.section3>blockquote {
+    color: #1F2937;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 36px;
+    margin-bottom: 0;
+}
+
+.section3>figcaption {
+    align-self: flex-end;
+    font-size: 17px;
+    font-weight: 600;
+    padding-right: 80px;
 }
