@@ -190,3 +190,14 @@ ul {
     font-size: small;
     color: #E5E7EB;
 }
+
+footer {
+    padding: 20px 30% 20px 30%;
+    text-align: center;
+    color: #F9FAF8;
+}
+
+footer p {
+    margin: 0;
+    font-size: small;
+}
